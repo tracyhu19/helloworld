@@ -2,7 +2,7 @@
 
 func(){
 
-echo "hello world! Pabiper"
+echo "hello world"
 
 }
 
